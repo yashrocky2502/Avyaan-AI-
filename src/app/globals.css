@@ -1,0 +1,91 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222 47% 11%;
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 11%;
+    --primary: 164 100% 41%; /* Groww Green: #00D09C */
+    --primary-foreground: 164 10% 98%;
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222 47% 11.2%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 164 100% 41%;
+    --accent-foreground: 164 10% 98%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 164 100% 41%;
+    --radius: 0.5rem;
+    --sidebar-background: 210 40% 98%;
+    --sidebar-foreground: 222 47% 11%;
+    --sidebar-primary: 164 100% 41%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 210 40% 96.1%;
+    --sidebar-accent-foreground: 164 100% 41%;
+    --sidebar-border: 214.3 31.8% 91.4%;
+    --sidebar-ring: 164 100% 41%;
+  }
+
+  .dark {
+    --background: 222 47% 2%; /* High-density Dark */
+    --foreground: 210 40% 98%;
+    --card: 222 47% 4%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222 47% 4%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 164 100% 41%;
+    --primary-foreground: 222 47% 11%;
+    --secondary: 222 47% 8%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 222 47% 8%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 164 100% 41%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 40%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 222 47% 10%;
+    --input: 222 47% 10%;
+    --ring: 164 100% 41%;
+    --sidebar-background: 222 47% 1%; 
+    --sidebar-foreground: 210 40% 90%;
+    --sidebar-primary: 164 100% 41%;
+    --sidebar-primary-foreground: 222 47% 6%;
+    --sidebar-accent: 222 47% 6%;
+    --sidebar-accent-foreground: 164 100% 41%;
+    --sidebar-border: 222 47% 8%;
+    --sidebar-ring: 164 100% 41%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground transition-none overflow-x-hidden;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+@layer utilities {
+  .font-headline {
+    font-family: 'Space Grotesk', sans-serif;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
