@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "stock-market-1",
+      "description": "Abstract financial charts showing growth",
+      "imageUrl": "https://picsum.photos/seed/market1/800/600",
+      "imageHint": "stock market chart"
+    },
+    {
+      "id": "news-tech-1",
+      "description": "Technology and business news background",
+      "imageUrl": "https://picsum.photos/seed/news1/800/600",
+      "imageHint": "technology business"
+    },
+    {
+      "id": "ipo-building",
+      "description": "Corporate building representing a public company",
+      "imageUrl": "https://picsum.photos/seed/ipo1/800/600",
+      "imageHint": "office building"
+    },
+    {
+      "id": "finance-dashboard",
+      "description": "Close up of a financial trading dashboard",
+      "imageUrl": "https://picsum.photos/seed/dash1/800/600",
+      "imageHint": "financial data"
+    }
+  ]
+}
