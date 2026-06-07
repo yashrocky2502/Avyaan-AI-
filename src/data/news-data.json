@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "RBI Monetary Policy: Repo Rate Unchanged at 6.5%, Stance Remains 'Withdrawal of Accommodation'",
+    "category": "Economy",
+    "source": "Moneycontrol",
+    "time": "15m ago",
+    "image": "https://picsum.photos/seed/n1/600/400",
+    "summary": "The Reserve Bank of India's Monetary Policy Committee has decided to maintain the repo rate at 6.5% for the tenth consecutive time. This decision aims to balance inflation management with economic growth stability while keeping a close eye on global economic uncertainties and domestic price pressures.",
+    "content": "The Reserve Bank of India (RBI) Governor Shaktikanta Das announced the decision of the Monetary Policy Committee (MPC) to keep the repo rate unchanged at 6.5%. This move was largely expected by market analysts and economists. The Governor highlighted that while inflation is on a downward trajectory, it remains above the target level of 4%. The MPC's primary focus remains the withdrawal of accommodation to ensure that inflation progressively aligns with the target while supporting growth.",
+    "whyMatters": "The steady interest rate environment provides predictability for businesses and retail borrowers.",
+    "sentiment": "Neutral",
+    "impact": "High",
+    "impactScore": 8,
+    "shortTermImpact": "Neutral for markets; relief for banking sector as no hike was announced.",
+    "longTermImpact": "Supports steady credit growth and helps in long-term inflation anchoring.",
+    "affectedSectors": ["Banking", "Real Estate", "NBFCs"],
+    "investorTakeaway": "Maintain exposure to quality private banks. Watch for the next inflation data release."
+  },
+  {
+    "id": 2,
+    "title": "Reliance Industries Q3 Results: Profit Jumps 12% YoY, Jio AirFiber Subscriptions Hit New Milestone",
+    "category": "Equity",
+    "source": "ET Markets",
+    "time": "1h ago",
+    "image": "https://picsum.photos/seed/n2/600/400",
+    "summary": "Reliance Industries has reported a significant 12% year-on-year increase in quarterly profit, bolstered by strong performance in its digital and retail sectors. The success of Jio AirFiber has been a key driver, marking a pivotal moment in the company's aggressive expansion into home broadband services.",
+    "content": "Reliance Industries Limited (RIL) reported its third-quarter financial results, showcasing a 12% increase in net profit year-on-year. The growth was primarily driven by the stellar performance of its digital services arm, Jio, and its retail division. Jio reported a healthy increase in Average Revenue Per User (ARPU).",
+    "whyMatters": "Reliance is a market heavyweight; its performance dictates the movement of Nifty 50.",
+    "sentiment": "Positive",
+    "impact": "High",
+    "impactScore": 9,
+    "shortTermImpact": "Stock likely to see 2-3% gap up opening. Positive sentiment for O2C and Retail segments.",
+    "longTermImpact": "Expansion of digital ecosystem ensures long-term cash flow stability and valuation rerating.",
+    "affectedSectors": ["Telecom", "Retail", "Energy"],
+    "investorTakeaway": "Core portfolio holding. Buy on dips for long-term compounding."
+  }
+]

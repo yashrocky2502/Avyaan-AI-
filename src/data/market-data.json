@@ -1,0 +1,62 @@
+
+{
+  "indices": [
+    {
+      "name": "NIFTY 50",
+      "value": "24,143.75",
+      "change": "+182.30",
+      "percent": "+0.76%",
+      "trend": "up",
+      "data": [23800, 23950, 23900, 24100, 24050, 24143]
+    },
+    {
+      "name": "SENSEX",
+      "value": "79,486.32",
+      "change": "+524.10",
+      "percent": "+0.66%",
+      "trend": "up",
+      "data": [78500, 78900, 78800, 79200, 79300, 79486]
+    },
+    {
+      "name": "BANK NIFTY",
+      "value": "51,820.40",
+      "change": "-84.20",
+      "percent": "-0.16%",
+      "trend": "down",
+      "data": [52100, 52000, 51950, 51900, 51850, 51820]
+    },
+    {
+      "name": "BTC / USD",
+      "value": "97,245.10",
+      "change": "+3,140.40",
+      "percent": "+3.33%",
+      "trend": "up",
+      "data": [92000, 93500, 95000, 94500, 96000, 97245]
+    },
+    {
+      "name": "GOLD (24K)",
+      "value": "7,645.80",
+      "change": "+42.20",
+      "percent": "+0.55%",
+      "trend": "up",
+      "data": [7580, 7600, 7620, 7615, 7630, 7645]
+    }
+  ],
+  "gainers": [
+    { "name": "RELIANCE", "price": "1,285.40", "chg": "+2.45%", "val": "₹4,680 Cr" },
+    { "name": "TATA MOTORS", "price": "982.10", "chg": "+4.12%", "val": "₹1,145 Cr" },
+    { "name": "HDFC BANK", "price": "1,742.45", "chg": "+1.80%", "val": "₹2,450 Cr" }
+  ],
+  "losers": [
+    { "name": "INFY", "price": "1,852.00", "chg": "-2.15%", "val": "₹990 Cr" },
+    { "name": "WIPRO", "price": "542.10", "chg": "-1.85%", "val": "₹420 Cr" },
+    { "name": "TCS", "price": "4,122.30", "chg": "-0.40%", "val": "₹1,320 Cr" }
+  ],
+  "sectors": [
+    { "name": "IT Services", "performance": "-1.2%", "trend": "down" },
+    { "name": "Banking & Fin", "performance": "+1.4%", "trend": "up" },
+    { "name": "Automobile", "performance": "+2.8%", "trend": "up" },
+    { "name": "FMCG", "performance": "+0.5%", "trend": "up" },
+    { "name": "Energy", "performance": "+1.9%", "trend": "up" }
+  ]
+}

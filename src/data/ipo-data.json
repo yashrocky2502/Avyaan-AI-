@@ -1,0 +1,115 @@
+
+{
+  "live": [
+    {
+      "id": "ipo-afcons",
+      "name": "Afcons Infrastructure",
+      "price": "₹440 - ₹463",
+      "lotSize": "32",
+      "status": "Open",
+      "endsIn": "1 day",
+      "category": "Mainboard",
+      "subscription": "2.4x",
+      "gmp": "₹35",
+      "issueSize": "₹5,430 Cr",
+      "listingDate": "Nov 04, 2024",
+      "registrar": "Link Intime India",
+      "leadManagers": ["ICICI Securities", "Nomura", "Jefferies"],
+      "issueType": "Book Built",
+      "industry": "Infrastructure",
+      "summary": "Afcons Infrastructure Limited is the flagship infrastructure and engineering company of the Shapoorji Pallonji Group.",
+      "businessOverview": "The company has a strong track record of executing complex EPC projects across marine, surface transport, urban infrastructure, and hydro segments. They operate globally with projects in over 25 countries.",
+      "risks": [
+        "High dependence on government projects and geopolitical stability.",
+        "Significant debt levels which the IPO aims to partially address.",
+        "Fixed-price contracts exposed to raw material price volatility."
+      ],
+      "strengths": [
+        "Part of the prestigious Shapoorji Pallonji Group.",
+        "Diverse project portfolio and healthy order book of over ₹31,000 Cr.",
+        "Proven execution capability in high-complexity projects."
+      ],
+      "interestReason": "Investors are keen on the SP Group's de-leveraging narrative and India's continued infrastructure push.",
+      "listingWatch": "Analysts expect a steady listing with potential long-term growth as debt levels normalize."
+    },
+    {
+      "id": "ipo-greenship",
+      "name": "Greenship Recycling",
+      "price": "₹120 - ₹128",
+      "lotSize": "1000",
+      "status": "Open",
+      "endsIn": "3 days",
+      "category": "SME",
+      "subscription": "15.2x",
+      "gmp": "₹60",
+      "issueSize": "₹45 Cr",
+      "listingDate": "Nov 08, 2024",
+      "registrar": "Bigshare Services",
+      "leadManagers": ["Hem Securities"],
+      "issueType": "Fixed Price",
+      "industry": "Recycling",
+      "summary": "A specialized player in industrial recycling and circular economy solutions.",
+      "businessOverview": "The company focuses on sustainable waste management and metal recovery, catering to industrial giants looking to improve their ESG scores.",
+      "risks": [
+        "SME segment high volatility.",
+        "Regulatory changes in waste management can impact margins."
+      ],
+      "strengths": [
+        "First-mover advantage in niche industrial recycling.",
+        "Strong margins due to proprietary recovery processes."
+      ],
+      "interestReason": "High interest due to 'Circular Economy' thematic momentum.",
+      "listingWatch": "Strong grey market interest suggests a potential multibagger listing."
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "ipo-swiggy",
+      "name": "Swiggy Limited",
+      "expectedPrice": "₹371 - ₹390",
+      "announcementDate": "Dec 05, 2024",
+      "status": "Approved",
+      "issueSize": "₹11,327 Cr",
+      "listingDate": "TBA",
+      "category": "Mainboard",
+      "industry": "Consumer Tech",
+      "summary": "India's leading food delivery and quick-commerce platform."
+    },
+    {
+      "id": "ipo-sagility",
+      "name": "Sagility India",
+      "expectedPrice": "₹28 - ₹30",
+      "announcementDate": "Dec 12, 2024",
+      "status": "Draft Filed",
+      "issueSize": "₹2,106 Cr",
+      "listingDate": "TBA",
+      "category": "Mainboard",
+      "industry": "Healthcare IT",
+      "summary": "A provider of technology-enabled business solutions for the healthcare industry."
+    }
+  ],
+  "listed": [
+    {
+      "id": "ipo-waaree",
+      "name": "Waaree Energies",
+      "issuePrice": "₹1,503",
+      "listingPrice": "₹2,550",
+      "gain": "+69.66%",
+      "date": "Oct 28, 2024",
+      "trend": "up",
+      "category": "Mainboard",
+      "industry": "Renewables"
+    },
+    {
+      "id": "ipo-hyundai",
+      "name": "Hyundai India",
+      "issuePrice": "₹1,960",
+      "listingPrice": "₹1,844",
+      "gain": "-5.92%",
+      "date": "Oct 22, 2024",
+      "trend": "down",
+      "category": "Mainboard",
+      "industry": "Auto"
+    }
+  ]
+}
