@@ -1,0 +1,6 @@
+streamlit
+rocketry
+requests
+pandas
+lxml
+beautifulsoup4
